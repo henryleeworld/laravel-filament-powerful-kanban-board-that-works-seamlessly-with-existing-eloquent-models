@@ -1,0 +1,18 @@
+{
+    "Administrator": "系統管理員",
+    "Completed": "完成",
+    "Create Task": "建立任務",
+    "Description": "描述",
+    "Due date": "截止日期",
+    "Edit Task": "編輯任務",
+    "Enter task title": "輸入任務標題",
+    "In Progress": "開發中",
+    "In Review": "審查中",
+    "Loading more cards...": "載入更多卡片...",
+    "No :cardLabel in this column": "此欄位沒有:cardLabel",
+    "Status": "狀態",
+    "Task Board": "任務看板",
+    "tasks": "任務",
+    "Title": "標題",
+    "To Do": "待辦"
+}
